@@ -6,8 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vamsibejjam&label=Profile%20views&color=0e75b6&style=flat" alt="vamsibejjam" /> </p>
 
-- 🌱 I’m currently learning **react js**
-
+- 🌱 I’m currently exploring **Next.js**, **TypeScript**, and advanced **React architecture**
 - 💬 Ask me about **full stack development**
 
 - 📫 How to reach me **bejjamvamsi@gmail.com**
